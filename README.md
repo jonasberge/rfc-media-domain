@@ -74,7 +74,7 @@ which can be used to visit online websites
 that can and will play anything a user of that browser wishes for.
 The name of the application does not suffice anymore,
 to be able to tell the which entity or service the media belongs to,
-whether it is a local file or if it is being streamed from server.
+whether it is a local file or if it is being streamed from a server.
 It could be from a music streaming service,
 it could be a video from a video-on-demand service
 or it could really just be a generic local audio file.
@@ -123,9 +123,9 @@ and each service provider or vendor of a major application (usually) has one.
 Internet domains are used in the following contexts
 to allow for unique identification of entities:
 
-- Java package names uses domains in reverse-DNS format *[citation needed]*.
-- Applications for the Macintosh operatings system use bundle identifiers,
-  which are domains ins reverse-DNS format
+- Java package names use domains in reverse-DNS format *[citation needed]*.
+- Applications for the Macintosh operating system use bundle identifiers,
+  which are domains in reverse-DNS format
   [[CFBundleIdentifier](https://developer.apple.com/documentation/bundleresources/information_property_list/cfbundleidentifier)].
 - Web services, by nature, are accessible over the internet,
   which is where internet domains are at home.
