@@ -246,6 +246,7 @@ or forwarding a link to this repository to others.
 
 ## Individual RFC Documents
 
+- [RFC-01](./rfc-00-media-source-identifier.md): Specification of Media Source Identifiers
 - [RFC-01](./rfc-01-linux-mpris.md): Extending Linux MPRIS to support Media Source Identifiers
 - [RFC-02](./rfc-02-windows-winrt.md): Extending Windows WinRT to support Media Source Identifiers
 - [RFC-03](./rfc-03-macos-mediaremote.md): Extending Macintosh's MediaRemote Framework to support Media Source Identifiers
